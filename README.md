@@ -1,4 +1,4 @@
-# How-works-the-computer
+# How_works_the_computer
 I have trouble understanding the technical workings of a computer, so I found the perfect youtube channel to explain it.
 
 ## Reference
